@@ -3,7 +3,6 @@ Under the guidance of Prof. Satish Kuchiwale.
 
 Contributors :
     Roll no.       |  Name            |
---------------------------------------|
-   36              | Bhavesh Mahajan  |  
+    36              | Bhavesh Mahajan  |  
    39              | Prashant Nane    |
    54              | Prajyot Pawar    |
