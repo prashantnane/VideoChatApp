@@ -2,7 +2,6 @@ This is an app made by TE students for mini project 2 according to curriculum pr
 Under the guidance of Prof. Satish Kuchiwale.
 
 Contributors :
-______________
     Roll no.       |  Name            |
 --------------------------------------|
    36              | Bhavesh Mahajan  |  
